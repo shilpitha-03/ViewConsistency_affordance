@@ -134,11 +134,11 @@ meaningful even above threshold. Zero additional training — it reads GAT's exi
 - Broader object coverage (bottles, cans, handleless cups) to test whether the dataset-bias failure
   generalizes beyond bowls.
 
-## Repository structure
+<!--## Repository structure-->
 <!-- TODO: list main folders/files, e.g. robopoint/, gat/, data/, ablation/, notebooks/ -->
 
-## Setup
+<!--## Setup-->
 <!-- TODO: dependencies + install; note GAT / RoboPoint / Depth-Anything checkpoints needed -->
 
-## Usage / reproducing
+<!--## Usage / reproducing-->
 <!-- TODO: how to run each phase (RoboPoint renders, GAT real-photo eval, DFI ablation) -->
